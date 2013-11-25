@@ -1,0 +1,4 @@
+:login_url: "http://your.site/admin/content/sitetree/"
+:exchange_import_url: "http://your.site/admin/exchange/import_do/1234.xml"
+:admin_login: "login"
+:admin_password: "password"
